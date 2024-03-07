@@ -1,6 +1,6 @@
 <h2>Hello World! Be Welcome! 👋</h2>
 
-<p>Software Developer looking for a job opportunity as a FullStack Developer! 🌱</p>
+<p>Software Developer looking for a job opportunity in FullStack or Backend Development! 🌱</p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=009208&size=20&center=false&vCenter=true&width=840&height=80&lines=Down+below+you+will+find+more+information+about+me!+👇)](https://git.io/typing-svg)
 
